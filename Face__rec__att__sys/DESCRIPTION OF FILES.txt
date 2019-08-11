@@ -1,0 +1,7 @@
+*These files are just the code.
+
+*To view the code open with python edit idle or any Text editor.  
+
+*These are dependent on image database folder, classifier xml files etc, which I have not uploaded.
+
+****Thank you.****
